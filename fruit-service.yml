@@ -2,7 +2,7 @@ spring:
   application:
     name: fruit-service
 server:
-  port: 8080
+  port: 8081
 #eureka:
 #  client:
 #    service-url:
